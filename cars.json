@@ -1,0 +1,148 @@
+{
+  
+ "cars":[
+        {
+            "id": "1",
+            "name": "Renault Trafic",
+            "marque": "Renault",
+            "image": "images/cars/41-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Manuelle",
+            "climatisation": "A/C",
+            "places": 9,
+            "valises": 4,
+            "portes": 2,
+            "prix": "650 "
+          },
+
+          {
+            "id": "2",
+            "name": "Hyundai Grand I10",
+            "marque": "Hyundai",
+            "image": "images/cars/39-1.png",
+            "gasoil": "Essence",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 2,
+            "portes": 5,
+            "prix": "250 "
+          },
+
+          {
+            "id": "3",
+            "name": "Kia Picanto",
+            "marque": "Kia",
+            "image": "images/cars/38-1.png",
+            "gasoil": "Essence",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 2,
+            "portes": 5,
+            "prix": "250 "
+          },
+
+          {
+            "id": "4",
+            "name": "Citroën C-ELYSEE",
+            "marque": "Citroën",
+            "image": "images/cars/37-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Manuelle",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 3,
+            "portes": 5,
+            "prix": "280"
+          },
+
+          {
+            "id": "5",
+            "name": "Range Rover Evoque ",
+            "marque": "Range Rover",
+            "image": "images/cars/32-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 4,
+            "portes": 5,
+            "prix": "900"
+          },
+
+          {
+            "id": "6",
+            "name": "Hyundai Santa Fe 4X4 ",
+            "marque": "Hyundai ",
+            "image": "images/cars/31-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 7,
+            "valises": 4,
+            "portes": 5,
+            "prix": "850 "
+          },
+
+          {
+            "id": "7",
+            "name": "Hyundai Elantra ",
+            "marque": "Hyundai",
+            "image": "images/cars/30-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 4,
+            "portes": 5,
+            "prix": "500 "
+          },
+
+          {
+            "id": "8",
+            "name": "Hyundai accent Automatique ",
+            "marque": "Hyundai",
+            "image": "images/cars/27-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Automatique",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 3,
+            "portes": 5,
+            "prix": "420"
+          },
+
+          {
+            "id": "9",
+            "name": "Dacia Duster",
+            "marque": "Dacia",
+            "image": "images/cars/28-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Manuelle",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 3,
+            "portes": 5,
+            "prix": "400"
+          },
+
+          {
+            "id": "10",
+            "name": "Hyundai accent",
+            "marque": "Hyundai",
+            "image": "images/cars/26-1.png",
+            "gasoil": "Diesel",
+            "boite_vitesse": "Manuelle",
+            "climatisation": "A/C",
+            "places": 5,
+            "valises": 3,
+            "portes": 5,
+            "prix": "400"
+          }
+
+          
+    ]
+}
+
+
